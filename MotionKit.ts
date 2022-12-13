@@ -4,8 +4,8 @@ namespace MotionKit {
 	
     /*some parameters used for controlling the turn and length */
     const microSecInASecond = 1000000
-    let distancePerSec = 100
-    let numberOfDegreesPerSec = 200
+    let distancePerSec = 300
+    let numberOfDegreesPerSec = 300
     let timeout = 0
     
         /* sender or receiver role
